@@ -1,0 +1,27 @@
+# Don't track content of these folders
+results
+__pycache__
+models
+2020-07-08_res50fpn_1x1
+
+.cache
+.config
+.gnupg
+.idea
+.local
+.nv
+.pylint.d
+.ssh
+.vim
+.vscode-server
+.bash_aliases
+.bash_history
+.bash_logout
+.bashrc
+.gitconfig
+.profile
+.wget-hsts
+*.pth
+.keras
+.python_history
+.vscode
